@@ -1,0 +1,2 @@
+ <!-- Open cmd and type
+ npm init && npm install body-parser express mongoose nodemon && npm i --save-dev babel-cli babel-preset-env babel-preset-stage-0 -->
